@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
-https://github.com/LOGESH-R-BYTE/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW.git
+<img width="1017" height="743" alt="image" src="https://github.com/user-attachments/assets/30608cd7-4f9b-48af-8919-859c05883c5d" />
+
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
